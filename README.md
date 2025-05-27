@@ -1,4 +1,4 @@
-# 🔐 Juice Shop Penetration Testing Report
+# 🔐 Penetration Testing Report
 
 This repository contains the comprehensive penetration testing report for the **OWASP Juice Shop** web application. The project was conducted as part of the **Software and Mobile Devices Security** course.
 
